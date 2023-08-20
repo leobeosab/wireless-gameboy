@@ -11,7 +11,7 @@ The ESP8266 puts out a WiFi network named "gameboy wifi" and allows a user to co
 * Gameboy Advance SP
 * Jumper Wire 
 * Bread board
-* Gameboy charter
+* Gameboy charger
 
 ## Missing from Docs
 * Electronics Schematic
